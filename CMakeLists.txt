@@ -12,8 +12,8 @@ add_executable(aoc2018
 #        06.cpp
 #        07.cpp
 #        08.cpp
-        09.cpp
-#        10.cpp
+#        09.cpp
+        10.cpp
 #        11.cpp
 #        12.cpp
 #        13.cpp
